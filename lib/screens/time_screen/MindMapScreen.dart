@@ -14,7 +14,7 @@ class _MindmapscreenState extends State<Mindmapscreen> {
     return Scaffold(
       backgroundColor: Colors.transparent,
       body: Center(
-        child: Text("Comming Soon!",                style: TextStyle(color: Colors.white, fontSize: 18),
+        child: Text("Comming Soon in later!",                style: TextStyle(color: Colors.white, fontSize: 18),
           textAlign: TextAlign.center,),
       ),
     );
