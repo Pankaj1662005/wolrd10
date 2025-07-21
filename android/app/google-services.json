@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "948521572702",
+    "project_id": "world7-be20a",
+    "storage_bucket": "world7-be20a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948521572702:android:d153df9fc9bb687255d7cf",
+        "android_client_info": {
+          "package_name": "com.example.world7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcuhUkTPJSy2nRlQOCFcQhLdcsFLk_oPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
